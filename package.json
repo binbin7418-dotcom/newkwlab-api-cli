@@ -1,0 +1,1 @@
+{"bin":{"nkw":"./src/cli.mjs"},"description":"Command-line client for the NewKwLab API Bundle gateway — one API key, one credit balance, many tools.","engines":{"node":">=18"},"files":["src","README.md"],"license":"MIT","name":"@newkwlab/api-bundle-cli","type":"module","version":"0.1.0"}
